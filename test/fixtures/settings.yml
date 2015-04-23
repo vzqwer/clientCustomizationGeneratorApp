@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: 
+  version: MyString
+  server_host: MyString
+  server_port: 1
+  push_platform_host: MyString
+
+two:
+  title: 
+  version: MyString
+  server_host: MyString
+  server_port: 1
+  push_platform_host: MyString
